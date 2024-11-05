@@ -42,7 +42,3 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 - **Oct 01, 2024**	:man_technologist: The 2024-B learning period began at EPN!
 
 - **Nov 22, 2022**	:computer: :notebook: :pen: I started studying at EPN 2022-B to become a systems engineer.
-
-
-
-
