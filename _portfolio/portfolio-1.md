@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/Mate_portada'>"
+title: "Agent design project for mnk Games"
+excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
 collection: portfolio
 **Agent design project for mnk Games**
 

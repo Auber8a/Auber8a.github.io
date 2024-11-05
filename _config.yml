@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/perfil.jpg"
+  avatar           : "perfil.jpg"
   name             : "Auber"
   pronouns         : # example: "she/her"  
   bio              : "Campus Politécnico    
@@ -30,7 +30,7 @@ author:
   location         : #"Quito"
   # employer         : "Red Brick University"
   # uri              : # URL
-   email            : "aubertin.ochoa@epn.edu.ec" 
+   email            : #"" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
