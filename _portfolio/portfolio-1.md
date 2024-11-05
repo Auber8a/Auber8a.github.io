@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
@@ -26,7 +26,7 @@ This project involves developing an agent that autonomously plays a mnk-type gam
 - **Additional challenges:** The agent must comply with efficiency and accuracy restrictions to ensure that it plays intelligently, respecting the rules and response times.
 
 
-<!-- 
+
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
     <img src="/images/Mat_2players.jpg" alt="2 Players" style="width: 100%; max-width: 200px;">
@@ -49,4 +49,4 @@ The requirements are that it has to be 2 players, that one loses points and the 
   <img src="/images/proyect_mnk.jpg" alt="Agent Design Project" style="width: 50%; max-width: 400px;">
 </div>
 
-This is the image of our finished project running. -->
+This is the image of our finished project running.
