@@ -5,7 +5,7 @@ collection: portfolio
 **Agent design project for mnk Games**
 
 ---
-====
+**Agent design project for mnk Games**
 
 Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game.
 
@@ -15,7 +15,7 @@ This project involves developing an agent that autonomously plays a mnk-type gam
 
 
 **Project Features:**
-====
+
 
 - **Development language:** Matlab.
 
