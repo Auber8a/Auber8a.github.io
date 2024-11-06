@@ -2,7 +2,7 @@
 title: "Agent design project for mnk Games"
 excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
 collection: Projects
-**Agent design project for mnk Games**
+
 
 ---
 **Agent design project for mnk Games**
