@@ -24,8 +24,9 @@ author:
   avatar           : "perfil.jpg"
   name             : "Auber"
   pronouns         : # example: "she/her"  
-  bio              : "Campus Politécnico    
+  bio              : "Campus Politécnico         
   Facultad de Ingenieria de Sistemas    
+
   Quito - Ecuador"
   location         : #"Quito"
   # employer         : "Red Brick University"
@@ -60,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : auber Ochoa
+  linkedin         : "auber-ochoa-962510327"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
