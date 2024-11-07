@@ -2,7 +2,7 @@
 title: "Agent design project for mnk Games"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-Agent design project for mnk Games
+permalink: Auber8a.github.io/publication/
 excerpt: 'Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>'
 date: 2009-10-01
 venue: 'Journal 1'
