@@ -217,9 +217,9 @@ kramdown:
 #   teaching:
 #     output: true
 #     permalink: /:collection/:path/
-#   publications:
-#     output: true
-#     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
   Portfolio:
     output: true
     permalink: /:collection/:path/
