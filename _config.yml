@@ -30,7 +30,7 @@ author:
   location         : #"Quito"
   # employer         : "Red Brick University"
   # uri              : # URL
-   email            : "aubertin.ochoa@epn.edu.ec" 
+   email            : "Quito" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -220,7 +220,7 @@ kramdown:
 #   publications:
 #     output: true
 #     permalink: /:collection/:path/
-  Projects:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
   # talks:
@@ -266,10 +266,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  #_Projects
+  #_Portfolio
   - scope:
       path: ""
-      type: Projects
+      type: Portfolio
     values:
       layout: single
       author_profile: true
