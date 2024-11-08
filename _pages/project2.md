@@ -83,11 +83,9 @@ Several JFrames are designed to allow user interaction with the system. **Main M
 The “Flight Ticket Management System in Java” database was designed to store all customer, flight, and ticket information. The connection was made through NetBeans and was structured with primary and foreign keys to maintain data integrity. In addition, the interface was updated to make parameterized SQL queries, which improves security and prevents vulnerabilities such as SQL injection.
 
 
-
-<div style="display: flex; flex-direction: column; align-items: center; max-width: 400px; margin: auto;">
-  <figure style="text-align: center; margin: 0;">
-    <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 400%;">
-    <figcaption style="text-align: center; margin-top: 8px;">The purchase of a ticket by the user.</figcaption>
-  </figure>
+<div style="text-align: center;">
+  <img src="/images/Progra_ComprarBoleto.jpg" alt="Flight registration by the administrator." style="width: 50%; max-width: 400px;">
+  <p>The purchase of a ticket by the user.</p>
 </div>
+
 
