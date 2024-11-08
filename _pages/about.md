@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 
 ---
-Computer engineering student in Ecuador. 👨‍💻
+ 👨‍💻 Computer engineering student in Ecuador.
 
-Escuela Politécnica Nacional. 
+🏫 Escuela Politécnica Nacional. 
 
-Faculty of Systems Engineering.
+🖥️⌨️ Faculty of Systems Engineering.
 
 Currently, I am pursuing a degree in Computer Science and am a fourth-semester Systems Engineering student. Passionate about technology and the potential of new inventions. Throughout my career, I have become increasingly interested in the fields of cybersecurity and networks, where I would like to specialize and contribute with innovative solutions.
 
@@ -19,7 +19,7 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 
 
-**Skills:**
+**🥳 Skills:**
 
 - Knowledge of platforms such as Emacs, Jupyter Notebook, Cisco Packet Tracer, MATLAB, among others.
 
@@ -29,13 +29,13 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 
 
-**Certifications:**
+**🤓☝️ Certifications:**
 
 - Basic computer hardware: Cisco
 
 
 
-**news**
+**📰 news**
 ======
 
 - **Oct 07, 2024**	:desktop_computer: :keyboard: :nerd_face: I started learning Python from intermediate to advanced level.
