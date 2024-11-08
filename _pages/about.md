@@ -25,7 +25,13 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 - Knowledge of Java and Python at a basic-intermediate level.
 
-- English level (intermediate-high)
+- Experience in Java and C.
+
+- Knowledge of networking fundamentals.
+
+- Proficiency in Linux.
+
+- English level (intermediate-high).
 
 
 
