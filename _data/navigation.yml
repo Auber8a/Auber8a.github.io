@@ -5,12 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "project Ticket"
+    url: /project-ticket/
 
   - title: "Project mnk"
-    url: /projects/
+    url: /project-mnk/
 
-  # - title: "Teaching"
-  #   url: /teaching/
         
