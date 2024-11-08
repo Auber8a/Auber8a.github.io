@@ -1,11 +1,15 @@
 ---
-title: "Agent design project for mnk Games"
+permalink: /projects/
+title: "Projects"
 excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
-collection: Portfolio
-
-
+autor_profile: true
+redirect_from:
+  - /projects/
+  - /projects.html
 ---
-**Agent design project for mnk Games**
+
+
+# **Agent design project for mnk Games**
 
 Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game.
 
@@ -14,7 +18,7 @@ This project involves developing an agent that autonomously plays a mnk-type gam
 
 
 
-**Project Features:**
+## **Project Features:**
 
 
 - **Development language:** Matlab.
