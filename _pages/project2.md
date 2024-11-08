@@ -7,11 +7,26 @@ redirect_from:
   - /projects_java/
   - /projects_java.html
 ---
-<style>
-  h1.page-title {
-    text-align: center;
-  }
-</style>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Project with JAVA</h1>
+    </header>
+</body>
+</html>
+
 
 
 # **Flight Ticket Management System in Java**
@@ -57,9 +72,6 @@ In this project, a Java application was developed using the Object Oriented Prog
 Several JFrames are designed to allow user interaction with the system. **Main Menu:** Provides access to the client and administrator functionalities. **Administrator Login:** Protected with username and password. **Registration and Ticket Purchase Form:** Allows the client to register and purchase tickets, applying discounts based on the client's data.
 
 
-<!-- <div style="text-align: center;">
-  <img src="/images/Progra_RegistroVuelos.jpg" alt="Flight registration by the administrator." style="width: 50%; max-width: 400px;">
-</div> -->
 
 <div style="text-align: center;">
   <img src="/images/Progra_RegistroVuelos.jpg" alt="Flight registration by the administrator." style="width: 50%; max-width: 400px;">
@@ -70,13 +82,10 @@ Several JFrames are designed to allow user interaction with the system. **Main M
 
 The “Flight Ticket Management System in Java” database was designed to store all customer, flight, and ticket information. The connection was made through NetBeans and was structured with primary and foreign keys to maintain data integrity. In addition, the interface was updated to make parameterized SQL queries, which improves security and prevents vulnerabilities such as SQL injection.
 
-<!-- 
-<div style="text-align: center;">
-  <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 50%; max-width: 400px;">
-</div> -->
+
 
 <figure style="text-align: center;">
   <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 50%; max-width: 400px;">
-  <figcaption>The purchase of a ticket by the user.</figcaption>
+  <p>The purchase of a ticket by the user.</p>
 </figure>
 

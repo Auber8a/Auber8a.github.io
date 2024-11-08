@@ -49,7 +49,8 @@ This project involves developing an agent that autonomously plays a mnk-type gam
 The requirements are that it has to be 2 players, that one loses points and the other wins, and that it has to be played on time.
 
 
-<div style="text-align: center;">
+<figure style="text-align: center;">
   <img src="/images/proyect_mnk.jpg" alt="This is the image of our finished project running." style="width: 50%; max-width: 400px;">
-</div>
+  <p>This is the image of our finished project running.</p>
+</figure>
 
