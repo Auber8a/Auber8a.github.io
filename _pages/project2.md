@@ -8,12 +8,12 @@ redirect_from:
   - /projects_java.html
 ---
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Proyecto</title>
+    <title>Project with JAVA</title>
     <style>
         h1 {
             text-align: center;
@@ -22,7 +22,7 @@ redirect_from:
 </head>
 <body>
     <header>
-        <h1>Project with JAVA</h1>
+        <h1></h1>
     </header>
 </body>
 </html>

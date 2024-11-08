@@ -8,7 +8,7 @@ redirect_from:
   - /projects.html
 ---
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
