@@ -1,6 +1,6 @@
 ---
 permalink: /projects_java/
-title: "Project with JAVA"
+title: ""
 excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
 autor_profile: true
 redirect_from:
@@ -84,8 +84,10 @@ The “Flight Ticket Management System in Java” database was designed to store
 
 
 
-<figure style="text-align: center;">
-  <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 50%; max-width: 400px;">
-  <p>The purchase of a ticket by the user.</p>
-</figure>
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 400px; margin: auto;">
+  <figure style="text-align: center; margin: 0;">
+    <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 100%;">
+    <figcaption style="text-align: center; margin-top: 8px;">The purchase of a ticket by the user.</figcaption>
+  </figure>
+</div>
 
