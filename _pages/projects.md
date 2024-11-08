@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+# **Agent design project for mnk Games**
+
 
 Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game.
 
