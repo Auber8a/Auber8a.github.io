@@ -33,15 +33,15 @@ In this project, a Java application was developed using the Object Oriented Prog
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/Progra_Login.jpg" alt="App Login" style="width: 100%; max-width: 200px;">
+    <img src="/images/Progra_Login.jpg" alt="App Login" style="width: 100%; max-width: 300px;">
     <p>2 Players</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/images/Progra_Boleto.jpg" alt="Create Ticket" style="width: 100%; max-width: 200px;">
+    <img src="/images/Progra_Boleto.jpg" alt="Create Ticket" style="width: 100%; max-width: 300px;">
     <p>Clock</p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/images/Progra_Cliente.jpg" alt="Create Customer" style="width: 100%; max-width: 200px;">
+    <img src="/images/Progra_Cliente.jpg" alt="Create Customer" style="width: 100%; max-width: 300px;">
     <p>Points</p>
   </div>
 </div>

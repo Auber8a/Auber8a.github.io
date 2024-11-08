@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 
 ---
-Computer engineering student in Ecuador.
+Computer engineering student in Ecuador. 👨‍💻
 
-Escuela Politécnica Nacional.
+Escuela Politécnica Nacional. 
 
 Faculty of Systems Engineering.
 
