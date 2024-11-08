@@ -7,6 +7,12 @@ redirect_from:
   - /projects_java/
   - /projects_java.html
 ---
+<style>
+  h1.page-title {
+    text-align: center;
+  }
+</style>
+
 
 # **Flight Ticket Management System in Java**
 
@@ -30,7 +36,7 @@ In this project, a Java application was developed using the Object Oriented Prog
 
 - **User Roles:** Two main roles are configured, the customer role and the administrator role. Both roles have different permissions and accesses in the application, such as the administrator’s ability to delete flights or manage customer and flight information through specific graphical interfaces (JFrames).
 
-
+<!-- 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: center;">
     <img src="/images/Progra_Login.jpg" alt="App Login" style="width: 100%; max-width: 300px;">
@@ -44,7 +50,23 @@ In this project, a Java application was developed using the Object Oriented Prog
     <img src="/images/Progra_Cliente.jpg" alt="Create Customer" style="width: 100%; max-width: 300px;">
     <p>Points</p>
   </div>
+</div> -->
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/Progra_Login.jpg" alt="App Login" style="width: 100%; max-width: 500px;">
+    <p>2 Players</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/Progra_Boleto.jpg" alt="Create Ticket" style="width: 100%; max-width: 500px;">
+    <p>Clock</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/Progra_Cliente.jpg" alt="Create Customer" style="width: 100%; max-width: 500px;">
+    <p>Points</p>
+  </div>
 </div>
+
 
 Several JFrames are designed to allow user interaction with the system. **Main Menu:** Provides access to the client and administrator functionalities. **Administrator Login:** Protected with username and password. **Registration and Ticket Purchase Form:** Allows the client to register and purchase tickets, applying discounts based on the client's data.
 
