@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /projects/
 title: "Projects"
 excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
@@ -53,4 +53,4 @@ The requirements are that it has to be 2 players, that one loses points and the 
   <img src="/images/proyect_mnk.jpg" alt="Agent Design Project" style="width: 50%; max-width: 400px;">
 </div>
 
-This is the image of our finished project running.
+This is the image of our finished project running. -->
