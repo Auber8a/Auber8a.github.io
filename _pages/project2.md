@@ -57,17 +57,26 @@ In this project, a Java application was developed using the Object Oriented Prog
 Several JFrames are designed to allow user interaction with the system. **Main Menu:** Provides access to the client and administrator functionalities. **Administrator Login:** Protected with username and password. **Registration and Ticket Purchase Form:** Allows the client to register and purchase tickets, applying discounts based on the client's data.
 
 
+<!-- <div style="text-align: center;">
+  <img src="/images/Progra_RegistroVuelos.jpg" alt="Flight registration by the administrator." style="width: 50%; max-width: 400px;">
+</div> -->
+
 <div style="text-align: center;">
   <img src="/images/Progra_RegistroVuelos.jpg" alt="Flight registration by the administrator." style="width: 50%; max-width: 400px;">
+  <p>Flight registration by the administrator.</p>
 </div>
-Flight registration by the administrator.
+
 
 
 The “Flight Ticket Management System in Java” database was designed to store all customer, flight, and ticket information. The connection was made through NetBeans and was structured with primary and foreign keys to maintain data integrity. In addition, the interface was updated to make parameterized SQL queries, which improves security and prevents vulnerabilities such as SQL injection.
 
-
+<!-- 
 <div style="text-align: center;">
   <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 50%; max-width: 400px;">
-</div>
+</div> -->
 
-The purchase of a ticket by the user.
+<figure style="text-align: center;">
+  <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 50%; max-width: 400px;">
+  <figcaption>The purchase of a ticket by the user.</figcaption>
+</figure>
+
