@@ -86,7 +86,7 @@ The “Flight Ticket Management System in Java” database was designed to store
 
 <div style="display: flex; flex-direction: column; align-items: center; max-width: 400px; margin: auto;">
   <figure style="text-align: center; margin: 0;">
-    <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 100%;">
+    <img src="/images/Progra_ComprarBoleto.jpg" alt="The purchase of a ticket by the user." style="width: 400%;">
     <figcaption style="text-align: center; margin-top: 8px;">The purchase of a ticket by the user.</figcaption>
   </figure>
 </div>
