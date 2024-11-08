@@ -1,12 +1,31 @@
 ---
 permalink: /projects/
-title: "Project with Matlab"
+title: ""
 excerpt: "Development of an agent that plays on a 7x7 board, using decision algorithms to compete autonomously in a “Connect 4” type game. <br/><img src='/images/Mate_portada'>"
 autor_profile: true
 redirect_from:
   - /projects/
   - /projects.html
 ---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project with Matlab</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+</body>
+</html>
 
 
 # **Agent design project for mnk Games**
